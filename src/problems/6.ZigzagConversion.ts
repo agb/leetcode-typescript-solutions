@@ -1,3 +1,4 @@
+// Resource : https://kmseop.tistory.com/238
 function convert(s: string, numRows: number): string {
     if (s.length < numRows || s.length < 2 || numRows < 2) {
       return s;
